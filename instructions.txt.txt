@@ -1,0 +1,39 @@
+a)
+Press the right and left arrow key to rotate right and left on the camera
+Press the up and down key to zoom in forward and backward
+Press A and S to move the camera left and right.
+Press F to speed up the dog and press G to slow the dog
+Press R to reset the position of the dog
+Press C to toggle between the regular light and full intense light.
+Press L to rotate the dog right
+press K to rotate the dog left
+Press the middle mouse to access the menu
+
+
+
+The orignal mouse movement is still implement for back up in case the keyboard movement does not work
+There is an exit option in the menu to exit the program
+
+b)
+There aren't any special functions that I implemented
+
+c)
+there aren't any negotiations with the instructor or TA done.
+d) I used glut.h, mesh.h, loaders.h, freeglut.h as well as the loaders.cpp file. Some of Project2.cpp was already filled in
+and was not done by me. I filled in project2.cpp
+
+For the materials in on the dogg,
+The torso is chrome
+The leggs are silver
+The head is turquoise
+The nose is bronze
+The eyeballs are black rubber
+The ears are also black rubber
+The tail is gold
+The eyes, nose and ears have glowing blue.
+The plane is Green plastic but with the ambient a bit higher.
+
+The .exe file is in Assignment2>Project2>Debug>Project2.exe
+or in the Assignment2>Project2>Release>Project2.exe
+All the files are in this zip file.
+Click on the .sln to open up the files. 
